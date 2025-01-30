@@ -1,0 +1,3 @@
+# Friday
+
+### Discord bot
