@@ -1,4 +1,5 @@
-import { Client, Collection, GatewayIntentBits } from 'discord.js';
+import { Client, Collection, 
+    GatewayIntentBits } from 'discord.js';
 import config from './config';
 
 interface FridayClient extends Client {
